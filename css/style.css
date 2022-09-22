@@ -12,5 +12,6 @@ header p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lu
 
 
 .ppl3-clearfix .profiledata-clearfix {background-color: yellow; display: inline-block; height: 5rem;width:20rem;margin:1rem; }
-div img{float: left;height: 100%;width: auto;}
+div img{float: left;height: 100%;width: auto;margin-right: 0.5rem;}
 .ppl3-clearfix{padding-left: calc((100% - 67rem) / 2);padding-right: calc((100% - 67rem) / 2);margin-top: 2rem;;}
+.profiledata-clearfix h2{margin-top: 0.2rem;}
