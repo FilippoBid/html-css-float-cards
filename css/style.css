@@ -11,6 +11,6 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;color: brown;}
 header p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;text-align: center;margin: 0 20%;}
 
 
-.ppl3 .profiledata {background-color: yellow; display: inline-block; height: 5rem;width:20rem;margin:1rem; }
+.ppl3-clearfix .profiledata-clearfix {background-color: yellow; display: inline-block; height: 5rem;width:20rem;margin:1rem; }
 div img{float: left;height: 100%;width: auto;}
-.ppl3{padding-left: calc((100% - 67rem) / 2);padding-right: calc((100% - 67rem) / 2);margin-top: 2rem;
+.ppl3-clearfix{padding-left: calc((100% - 67rem) / 2);padding-right: calc((100% - 67rem) / 2);margin-top: 2rem;;}
