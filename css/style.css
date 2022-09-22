@@ -1,3 +1,9 @@
 *{box-sizing: border-box;
 padding: 0%;
 margin: 0%;}
+.clearfix::after{content:"";
+display: table;
+clear: both;}
+header h1 {margin: 2rem 5rem; text-align: center;font-size: 3rem;
+font-family: Verdana, Geneva, Tahoma, sans-serif;color: brown;}
+header p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;text-align: center;margin: 0 20%;}
